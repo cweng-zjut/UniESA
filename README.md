@@ -6,6 +6,7 @@ High stereoselectivity, as well as activity, is essential for enzyme’s applica
 
 ## Usage
 gen_model.exe is used to generate the best model for a sepecific task, and UniESA_predict.exe is used to predict the property for specific mutants. 
+Since the files are larger than the github allowed size, we are solving this problem now. 
 
 ## Contributing
 
