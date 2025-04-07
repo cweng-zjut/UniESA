@@ -8,3 +8,6 @@ High stereoselectivity, as well as activity, is essential for enzyme’s applica
 
 # Usage
 AAindex.exe is used to predict the property for specific mutants. Input your wild type sequence in the wt.exe, and substitute the input_data.csv by your own sequence and enzyme property. Now UniESA is ready to use. 
+
+# Citation
+Weng CY, Li J, Chen QL, Han JY, Dong ZT, Liu ZQ, Zheng YG. UniESA: a unified data-driven framework for enzyme stereoselectivity and activity prediction. Green Chem., 2025, 27, 3777
